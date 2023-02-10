@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "281626497343",
+    "project_id": "smartagri1-28afc",
+    "storage_bucket": "smartagri1-28afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281626497343:android:7543b21d55ca4776f5038a",
+        "android_client_info": {
+          "package_name": "com.example.mobileotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281626497343-c4rhnae4q2656870nb2ac11oq6hqnn79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCfFUwmbHSFfBYOOJpKYr84JeaYks09Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281626497343-c4rhnae4q2656870nb2ac11oq6hqnn79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281626497343-8s192idtjljhvm1h1q0dtsbd9e58ji89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resetPassword"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281626497343:android:db286e8df461c773f5038a",
+        "android_client_info": {
+          "package_name": "com.example.reset_password"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281626497343-c4rhnae4q2656870nb2ac11oq6hqnn79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCfFUwmbHSFfBYOOJpKYr84JeaYks09Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281626497343-c4rhnae4q2656870nb2ac11oq6hqnn79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281626497343-8s192idtjljhvm1h1q0dtsbd9e58ji89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resetPassword"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281626497343:android:320e366696655836f5038a",
+        "android_client_info": {
+          "package_name": "com.example.smart_agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281626497343-c4rhnae4q2656870nb2ac11oq6hqnn79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCfFUwmbHSFfBYOOJpKYr84JeaYks09Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281626497343-c4rhnae4q2656870nb2ac11oq6hqnn79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281626497343-8s192idtjljhvm1h1q0dtsbd9e58ji89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resetPassword"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
